@@ -1,0 +1,87 @@
+body {
+	background-color: black;
+	color: white;
+	font-family: monospace;
+}
+
+button {
+	background-color: green;
+	font-family: monospace;
+}
+
+.Arc {
+	background-image: url('AcrBG.png');
+	background-size: 1300px 170px;
+	font-family: sans-serif;
+	color: white;
+}
+
+.ArcB {
+	background-color: white;
+	font-family: sans-serif;
+	color: black;
+}
+
+.Calc {
+	background-color: darkblue;
+	font-family: monospace;
+	color: white;
+}
+
+.CalcB {
+	background-color: white;
+	font-family: monospace;
+	color: darkblue;
+}
+
+.SSB {
+	background-color: whitesmoke;
+	font-family: unset;
+	color: black;
+}
+
+.SSBB {
+	background-color: black;
+	font-family: unset;
+	color: whitesmoke;
+}
+
+.Race {
+	background-image: url('UnityBG.png');
+	background-position: center;
+	background-size: auto 500px;
+	font-family: cursive;
+	color: black;
+}
+
+.RaceB {
+	background-color: purple;
+	font-family: cursive;
+	color: white;
+}
+
+.Num {
+	background-color: Red;
+	font-family: monospace;
+	color: white;
+}
+
+.NumB {
+	background-color: white;
+	font-family: monospace;
+	color: red;
+}
+
+.Weat {
+	background-image: url('weatBG.png');
+	background-position: center;
+	background-size: 1300px 200px;
+	font-family: sans-serif;
+	color: white;
+}
+
+.WeatB {
+	background-color: lightcyan;
+	font-family: sans-serif;
+	color: black;
+}
